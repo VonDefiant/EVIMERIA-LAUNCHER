@@ -2,7 +2,7 @@ appId: 'evimerialauncher'
 productName: 'Evimeria Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2030 Von Defiant'
+copyright: 'Copyright © 2018-2035 Von Defiant'
 
 asar: true
 compression: 'maximum'
